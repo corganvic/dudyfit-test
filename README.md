@@ -1,5 +1,7 @@
 # dudyfit-test
-
+<br>
+<ul>
 Test locally:
-  run npm i
-  run npm run dev:start
+  <li>run `npm i`</li>
+  <li>run `npm run dev:start`</li>
+</ul>
